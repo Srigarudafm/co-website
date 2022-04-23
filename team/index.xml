@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Team on Sri Garuda Facility Management</title>
+    <link>https://srigarudafm.in/team/</link>
+    <description>Recent content in Team on Sri Garuda Facility Management</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Dec 2018 13:44:30 +1000</lastBuildDate><atom:link href="https://srigarudafm.in/team/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Srinivas Rao</title>
+      <link>https://srigarudafm.in/team/srinivas-rao/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://srigarudafm.in/team/srinivas-rao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Madhusudhan G</title>
+      <link>https://srigarudafm.in/team/madhu/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://srigarudafm.in/team/madhu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Karunakar</title>
+      <link>https://srigarudafm.in/team/karunakar/</link>
+      <pubDate>Thu, 20 Dec 2018 13:44:30 +1000</pubDate>
+      
+      <guid>https://srigarudafm.in/team/karunakar/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.</description>
+    </item>
+    
+  </channel>
+</rss>
